@@ -3,7 +3,7 @@
     Descrição:
         - Realiza leitura de imagens com a WebCam;
         - Identifica pontos faciais com MediaPipe;
-        - 
+        - Exibi imagens coletadas da webcam com pontos faciais marcados com mediapipe.
 '''
 
 import cv2

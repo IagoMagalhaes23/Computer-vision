@@ -7,9 +7,9 @@ Buscando aprender mais sobre Visão Computacional e seus principais recursos. Te
 
 ### Projeto 1:
 - Análise facial
-Neste projeto aprendir sobre como estruturar um projeto de visão computacional, utilizar a captura de imagens em tempo real com OpenCv, detectar faces com MediaPipe Face Mesh e construir uma visualização de pontos daciais. O resultado pode ser visualizado na imagem abaixo.
+Na primeira etapa do curso aprendir sobre como estruturar um projeto de visão computacional, utilizar a captura de imagens em tempo real com OpenCv, detectar faces com MediaPipe Face Mesh e construir uma visualização de pontos daciais. O resultado pode ser visualizado na imagem abaixo.
 
-
+Na segunda etapa do curso foi 
 - 
 
 
