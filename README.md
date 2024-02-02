@@ -2,12 +2,16 @@
 
 ## Resumo
 
+
 ## Introdução
+
 
 ## Projetos
 
 ### Projeto: 
-- Robõ explorador
-- 
+- Robô explorador
+- Análise facial
+
+
 ## Referências
-- 
+- (Projeto Análise facial): 
