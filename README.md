@@ -9,7 +9,7 @@ Buscando aprender mais sobre Visão Computacional e seus principais recursos. Te
 - Análise facial
 Na primeira etapa do curso aprendir sobre como estruturar um projeto de visão computacional, utilizar a captura de imagens em tempo real com OpenCv, detectar faces com MediaPipe Face Mesh e construir uma visualização de pontos daciais. O resultado pode ser visualizado na imagem abaixo.
 
-Na segunda etapa do curso foi 
+Na segunda etapa do curso foi apresentado como identificar as coordenadas e os pontos da solução Face mesh, localizar e exibir os pontos que representam os olhos direito e esquerdo, interpretar as coordenadas do mediapipe e calcular o valor de EAR.
 - 
 
 
