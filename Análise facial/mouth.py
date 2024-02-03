@@ -121,7 +121,7 @@ with mp_face_mesh.FaceMesh(min_detection_confidence=0.5, min_tracking_confidence
         except:
             pass
 
-        cv2.imshow('Camera',frame)
+        cv2.imshow('Imagem da WebCam',frame)
         if cv2.waitKey(10) & 0xFF == ord('c'):
             break
 cap.release()
