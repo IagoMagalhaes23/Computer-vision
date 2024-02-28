@@ -16,8 +16,10 @@ Na terceira aula foi abordado sobre como localizar e exibir os pontos que repres
 Na última aula, conseguir aprender sobre como utilizar as funcionalidades do mediapipe para identificar o olho, contar o número de piscadas, verificar a frequencia de eventos e identificar se o usuário está dormindo ou não.
 
 Sugestões de melhorias futuras: integrar o projeto de análise facial ao um sistema com microcontrolador e emitir bips ou efeitos sonoros e luminosos para ajudar o usuário acordar e alertar as pessoas em volta para auxiliar na situação.
-- 
+
+### Projeto 2:
 
 
 ## Referências
 - (Projeto Análise facial): Curso de Visão Computacional: Análise facial; Curso presente na Alura com aulas ministradas pela professora Mirla Costa.
+- [Depth Anything: Como Criar Mapas de Profundidade](https://sigmoidal.ai/depth-anything-como-criar-mapas-de-profundidade/)
