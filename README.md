@@ -18,7 +18,13 @@ Na última aula, conseguir aprender sobre como utilizar as funcionalidades do me
 Sugestões de melhorias futuras: integrar o projeto de análise facial ao um sistema com microcontrolador e emitir bips ou efeitos sonoros e luminosos para ajudar o usuário acordar e alertar as pessoas em volta para auxiliar na situação.
 
 ### Projeto 2:
+- Depth Anything: Como Criar Mapas de Profundidade
 
+Essência da Percepção de Profundidade Monocular: A estimativa de profundidade monocular é fundamental para compreender a estrutura espacial de uma cena a partir de uma única imagem, permitindo aplicações como reconstrução 3D de cenas.
+
+Avanços com Depth Anything: Representando um salto significativo na percepção de profundidade monocular, o modelo Depth Anything utiliza a arquitetura DPT e foi treinado em um conjunto de dados extenso, mostrando excelente capacidade de generalização.
+
+Aplicação Prática: O artigo fornece instruções detalhadas para testar a estimativa de profundidade com imagens e vídeos, facilitando a experimentação prática e a visualização dos resultados do modelo Depth Anything.
 
 ## Referências
 - (Projeto Análise facial): Curso de Visão Computacional: Análise facial; Curso presente na Alura com aulas ministradas pela professora Mirla Costa.
