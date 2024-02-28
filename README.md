@@ -20,6 +20,23 @@ Sugestões de melhorias futuras: integrar o projeto de análise facial ao um sis
 ### Projeto 2:
 - Depth Anything: Como Criar Mapas de Profundidade
 
+A percepção de profundidade é o que nos permite interpretar o mundo tridimensional a partir de imagens bidimensionais projetadas em nossas retinas. Essa habilidade evoluiu como um aspecto crucial para a sobrevivência, possibilitando aos humanos navegar pelo ambiente, evitar predadores e localizar recursos.
+
+O cérebro humano realiza essa façanha por meio de uma série de interpretações das informações visuais, onde a sobreposição do campo visual binocular fornece uma rica percepção de profundidade.
+
+Além da visão binocular, essa percepção é enriquecida por várias pistas monoculares (depth cues), elementos no ambiente que permitem ao observador único inferir a profundidade mesmo com um olho fechado. Entre essas pistas estão occlusão, tamanho relativo, sombras projetadas, e perspectiva linear.
+
+Esses mesmos princípios e mecanismos de percepção encontram um paralelo na Visão Computacional, onde a essência da estimativa também reside em capturar a estrutura espacial de uma cena para representar com precisão seus aspectos tridimensionais.
+
+O modelo Depth Anything, introduzido no trabalho “Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data”, representa um avanço significativo em estimativa de profundidade monocular. Baseado na arquitetura DPT (Dense Prediction Transformer), foi treinado em um vasto conjunto de dados com mais de 62 milhões de imagens não rotuladas.
+
+O sucesso desta abordagem é atribuído a duas estratégias principais.
+
+- A utilização de ferramentas de data augmentation para estabelecer um target de otimização mais desafiador.
+- Uso de supervisão auxiliar para assegurar a herança de priores semânticos a partir de codificadores pré-treinados.
+
+A capacidade de generalização do Depth Anything, testada em seis conjuntos de dados públicos e em fotografias capturadas aleatoriamente, superou algumas métricas de modelos existentes, como MiDaS v3.1 e ZoeDepth.
+
 Essência da Percepção de Profundidade Monocular: A estimativa de profundidade monocular é fundamental para compreender a estrutura espacial de uma cena a partir de uma única imagem, permitindo aplicações como reconstrução 3D de cenas.
 
 Avanços com Depth Anything: Representando um salto significativo na percepção de profundidade monocular, o modelo Depth Anything utiliza a arquitetura DPT e foi treinado em um conjunto de dados extenso, mostrando excelente capacidade de generalização.
