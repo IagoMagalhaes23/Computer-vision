@@ -41,7 +41,10 @@ Essência da Percepção de Profundidade Monocular: A estimativa de profundidade
 
 Avanços com Depth Anything: Representando um salto significativo na percepção de profundidade monocular, o modelo Depth Anything utiliza a arquitetura DPT e foi treinado em um conjunto de dados extenso, mostrando excelente capacidade de generalização.
 
-Aplicação Prática: O artigo fornece instruções detalhadas para testar a estimativa de profundidade com imagens e vídeos, facilitando a experimentação prática e a visualização dos resultados do modelo Depth Anything.
+Aplicação Prática: O artigo fornece instruções detalhadas para testar a estimativa de profundidade com imagens e vídeos, facilitando a experimentação prática e a visualização dos resultados do modelo Depth Anything. A imagem 01 apresenta um pouco de como o algoritmo pode ser utilizado.
+
+![image](https://github.com/IagoMagalhaes23/Computer-vision/assets/65053026/82f76c6e-5d49-46ee-b817-e13306d28d15)
+
 
 ## Referências
 - (Projeto Análise facial): Curso de Visão Computacional: Análise facial; Curso presente na Alura com aulas ministradas pela professora Mirla Costa.
