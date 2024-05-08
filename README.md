@@ -49,7 +49,11 @@ Aplicação Prática: O artigo fornece instruções detalhadas para testar a est
 - YOLO: Segmentação de Objetos | A Poderosa Capacidade do YOLO Explorada Passo a Passo
 Descubra a incrível capacidade de segmentação de objetos do YOLO neste tutorial abrangente! 🚀 Aprenda como o YOLO (You Only Look Once) pode identificar e delimitar objetos em tempo real, revolucionando a visão computacional. Aqui exploramos as várias funcionalidades do YOLO, incluindo detecção de objetos, classificação e segmentação, fornecendo insights valiosos para iniciantes e entusiastas avançados de IA e visão computacional.
 
+### Projeto 4:
+No projeto 04, com a ajuda do canal WellingtonDev25 (nome de usuário no GitHub) criamos um pequeno programa para prever a distânica da mão em relação a camera.
+
 ## Referências
 - (Projeto Análise facial): Curso de Visão Computacional: Análise facial; Curso presente na Alura com aulas ministradas pela professora Mirla Costa.
 - [Depth Anything: Como Criar Mapas de Profundidade](https://sigmoidal.ai/depth-anything-como-criar-mapas-de-profundidade/)
 - [YOLO: Segmentação de Objetos | A Poderosa Capacidade do YOLO Explorada Passo a Passo](https://youtu.be/r6tQtIeWXu8?si=uIERQkTcDl0OFMCq)
+- [Distância Mão](https://github.com/WellingtonDev25/distancia_mao/tree/main
